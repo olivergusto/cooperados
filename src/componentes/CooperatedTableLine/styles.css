@@ -1,0 +1,14 @@
+.cooperated-table-line {
+  vertical-align: middle;
+}
+
+.cooperated-table-line {
+    font-size: 20px;
+}
+
+.cooperated-table-line button {
+  width: 60px;
+  font-size: 14px;
+  padding: 4px 5px;
+  margin: auto 5px;
+}

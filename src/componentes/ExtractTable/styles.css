@@ -1,0 +1,16 @@
+.extract-table {
+  max-height: 260px;
+  overflow-y: auto;
+}
+.extract-table-head-date,
+.extract-table-head-hora,
+.extract-table-head-transaction-type,
+.extract-table-head-value {
+  width: 25%;
+}
+
+.extract-table-head th {
+  text-align: center;
+  vertical-align: middle;
+  font-size: 12px;
+}

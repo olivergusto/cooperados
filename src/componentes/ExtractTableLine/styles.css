@@ -1,0 +1,8 @@
+.extract-table-line {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.extract-table-line td {
+    font-size: 12px;
+}

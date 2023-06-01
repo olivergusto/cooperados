@@ -1,0 +1,19 @@
+.cooperated-container {
+    width: 98vw;
+    margin: 1vw;
+}
+
+.cooperated-container header h4 {
+    padding: 0;
+    margin: 0;
+    align-items: center;
+    display: flex;
+}
+
+.cooperated-container header {
+    margin-bottom: 1vw;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-between;
+}
