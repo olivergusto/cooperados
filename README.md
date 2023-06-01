@@ -3,7 +3,7 @@
 + Segue docx com descrição das funções do projeto.
 
 
-# FUNÇÕES
+### FUNÇÕES
 + Realizar Cadastro
 + Editar Cadastro
 + Excluir Cadastro
@@ -11,12 +11,12 @@
 + Depositar
 + Lista de movimentações
 
-# INSTALAÇÃO
+### INSTALAÇÃO
 + git clone
 + npm install
 + npm run dev
 
-# BIBLIOTECAS E FRAMEWORKS
+### BIBLIOTECAS E FRAMEWORKS
 + vitejs
 + reactjs
 + reactbootstrap
